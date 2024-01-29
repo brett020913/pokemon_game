@@ -1,4 +1,4 @@
-Pokemon guessing game
+Pokemon guessing game.
 This is my first project using python! I have created a guessing game that is played in the terminal of your python IDE.
 It starts by asking for a name then asks if you would like to play the game. This question is inside a loop that allows for possible mistakes.
 If yes is entered the game continues, if no is entered the game ends. If neither is entered you will have 3 attempts to answer yes or no otherwise the game ends. 
